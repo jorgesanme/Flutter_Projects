@@ -1,0 +1,4 @@
+#Wed Jul 29 16:24:56 WEST 2020
+base.0=/home/jorge/AndroidStudioProjects/Flutter_Projects/destini-challenge-starting/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

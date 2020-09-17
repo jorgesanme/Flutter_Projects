@@ -1,0 +1,4 @@
+#Thu Sep 17 10:13:48 WEST 2020
+base.0=/home/jorge/AndroidStudioProjects/Flutter_Projects/Navigation-Flutter-Demo/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

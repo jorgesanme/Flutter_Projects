@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "943430874228",
+    "firebase_url": "https://flash-chat-bcc7e.firebaseio.com",
+    "project_id": "flash-chat-bcc7e",
+    "storage_bucket": "flash-chat-bcc7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943430874228:android:f3aba27a3a89fdc6d20d21",
+        "android_client_info": {
+          "package_name": "co.jorgesanchezmedina.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943430874228-mjbqj62onrgjrevus05oi1an6189p1oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpje9CaRAlI79SizyHnGrh1ZGGpZIOek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943430874228-mjbqj62onrgjrevus05oi1an6189p1oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
